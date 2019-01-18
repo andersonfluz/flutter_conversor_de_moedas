@@ -1,6 +1,6 @@
 # conversor_de_moedas
 
-A new Flutter application.
+Conversor de moedas (R$, US$, EUR, BTC).
 
 ## Getting Started
 
